@@ -1,0 +1,22 @@
+.navbar-brand {
+	float: left;
+}
+
+.nav-link {
+	color: white;
+	float: right;
+
+}
+
+.navbar-title {
+	color: white;
+}
+
+.navbar {
+	background-color: black;
+	background-size: center;
+}
+
+nav a:visited {
+color: white;
+}

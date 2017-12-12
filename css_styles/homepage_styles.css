@@ -1,0 +1,28 @@
+body {
+	background: url("../imgs/sunrise2.png") no-repeat center center fixed;
+	background-size: cover;
+}
+
+h1 {
+	color: white;
+	font-family: Oxygen;
+	font-size: 54px;
+	margin-top: 10vh;
+}
+p {
+	color: #00334d;
+	font-family: Calibri;
+	font-size: 21px;
+	text-decoration: underline;
+	font-weight: bold;
+}
+button {
+	background-color: #006699;
+	font-family: Calibri;
+	color: white;
+	font-weight: 400;
+	margin-top: 100px;
+	margin-left: 95vh 
+
+}
+

@@ -1,0 +1,18 @@
+h1 {
+	font-weight:100; 
+}
+
+.profile1 {
+	max-width: 300px;
+	max-height: 300px;
+}
+
+body {
+	background: url("../imgs/ldnight1.jpg") no-repeat center center fixed;
+	background-size: cover;
+	
+}
+
+.card {
+	margin-top: 20px;
+}
